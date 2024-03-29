@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "11133590500",
+    "project_id": "texibooking-7abb3",
+    "storage_bucket": "texibooking-7abb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11133590500:android:17197854b8abd688d705f1",
+        "android_client_info": {
+          "package_name": "com.example.texi_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjslt4DReiBFrxqQ71jZ2Rh8Qo_OF4dSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11133590500:android:89face46ac988f8ad705f1",
+        "android_client_info": {
+          "package_name": "com.jay.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjslt4DReiBFrxqQ71jZ2Rh8Qo_OF4dSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
