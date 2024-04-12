@@ -1,2 +1,18 @@
 
+![1](https://github.com/JackBhaii/texi_driver/assets/164312399/fb6c70fd-215e-4414-a7d3-b64efc41ce42)
+![2](https://github.com/JackBhaii/texi_driver/assets/164312399/3d078340-827b-49c0-921c-852754594628)
+![3](https://github.com/JackBhaii/texi_driver/assets/164312399/9c3c7b6d-07dd-415b-9935-14ff04ea5404)
+![4](https://github.com/JackBhaii/texi_driver/assets/164312399/9c96c9a3-b937-4146-a501-a7aaa2e66ac8)
+![5](https://github.com/JackBhaii/texi_driver/assets/164312399/0f1ed5a4-2259-4f12-808f-95011f5d773f)
+![6](https://github.com/JackBhaii/texi_driver/assets/164312399/b6f87a91-0d53-4dd0-aa95-39bd7c42f587)
+![7](https://github.com/JackBhaii/texi_driver/assets/164312399/d0d51b60-5edf-490f-87bb-eab23e5c0b47)
+![8](https://github.com/JackBhaii/texi_driver/assets/164312399/44c5e1c5-6db3-4ff4-a6fb-dce5ca206f78)
+![9](https://github.com/JackBhaii/texi_driver/assets/164312399/02a1b875-04ab-40a9-a4c2-f7d29b3daa6f)
+![10](https://github.com/JackBhaii/texi_driver/assets/164312399/799d74e7-0a16-4529-8e7b-982443c8bfa6)
+![11](https://github.com/JackBhaii/texi_driver/assets/164312399/80ee7678-cc6e-4e7d-a640-9e157e0829d8)
+![12](https://github.com/JackBhaii/texi_driver/assets/164312399/ff9d1eff-0bde-43b0-956a-fb84e30bfb41)
+![13](https://github.com/JackBhaii/texi_driver/assets/164312399/0845c76b-e2b5-4228-ba8a-42964ee21e54)
+![14](https://github.com/JackBhaii/texi_driver/assets/164312399/367285cb-d195-4cc0-92f1-19ae2511a65b)
+![15](https://github.com/JackBhaii/texi_driver/assets/164312399/a2172d11-44c6-4a6f-bb0c-898e43edcf61)
+![16](https://github.com/JackBhaii/texi_driver/assets/164312399/6ef90bca-975d-4197-b6a0-6ee0507f95cd)
 
